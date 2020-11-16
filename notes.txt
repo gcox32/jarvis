@@ -1,0 +1,7 @@
+1. convert speech to text (google speech to text--don't reinvent the wheel)
+2. execute command line commands (e.g. open terminal, cd Desktop, open file.txt)
+3. open browser and get urls
+4. answer "tell me about x" questions with wikipedia
+5. integrate brokerage accounts?
+6. run as a background service
+    a. acknowledge with "Hey Jarvis, " to wake up service
