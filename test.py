@@ -6,7 +6,7 @@ import smtplib
 
 def talkToMe(audio):
     print(audio)
-    tts = gTTS(text = audio, lang = 'en')
+    tts = gTTS(text = audio, lang = 'en-uk')
     tts.save('audio.mp3')
     os.system('afplay audio.mp3')
 
